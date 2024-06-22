@@ -1,0 +1,14 @@
+---
+title: Para você
+email:
+description: As doses de você
+baseurl: ""
+url: ""
+twitter_username:
+instagram_username:
+
+layout: default
+theme: minima
+plugins:
+  - jekyll-feed
+---
